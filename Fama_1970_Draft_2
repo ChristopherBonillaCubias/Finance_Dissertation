@@ -1,0 +1,24 @@
+Fama (1970) reviews the theory and evidence on efficient markets. An efficient market is one in which an asset's price fully reflects all available information.
+Sequentially, Fama (1970) classifies tests into three progressively demanding forms being a weak, semi-strong, and strong, each defined by an information set. 
+The information set are the prices that should reflect all publicly and privately available information. 
+
+[Nested sets: past prices ⊂ public ⊂ all.]
+
+The weak form tests if past prices predict future returns. Fama (1970) shows that past prices are not exploitable, specifically, serial correlations are close to zero, and filter rules cannot beat buy-and-hold once transaction costs are counted. 
+How is this the case ? Well, the information carried in an asset's price history is already incorporated into its current price, so the future price changes respond only to new information.
+
+The semi-strong form tests how quickly prices incorporate public announcements. 
+The central evidence is the stock-split study of Fama, Fisher, Jensen and Roll (1969), the first event study, that measures the abnormal returns as residuals from the market model across 940 NYSE splits (1927–1959). 
+A split multiplies the number of shares without changing fundamentals, yet acts as a signal. 
+For instance, executives announce a stock split when they are confident their company can pay the dividends based on future projected cash flows, as Fama (1970) splits are followed by dividend increases in 71.5% of cases. 
+Additionally, the cumulative average residuals rise over the ~29 months before the split, reflecting anticipation of the news the split proxies for. 
+Hence,the efficiency evidence is the post-split behaviour, firms that deliver the dividend increase show no further abnormal returns, firms that fail to deliver fall back, and gains concentrate by the announcement, prices impound the information by the event month. Ball and Brown (1968) find the same pattern for earnings announcements.
+
+The strong form asks whether an investors private information is not reflected in prices. 
+Fama (1970) found that two groups do take slight advantage of not having their information incorporated, these are (1) Specialists and (2) Corporate Insiders. 
+Specialists have a monopolistic access to the unexecuted limit order book, while Corporate Insiders, have monopolistic access to firm information. 
+Hence, Specialists and Corporate Insiders are the first two groups to deviate against Fama's (1970) Market Efficiecy Hypothesis and are deviations from strong-form efficiency. 
+Additionally, Fama (1970) also reports Jensen's (1968) finding that mutual fund managers earn no excess returns, specifically, professionals without monopolistic access cannot beat the market, which supports efficiency with respect to public information.
+
+
+As such, Fama (1970) concludes that markets are efficient with respect to public information; abnormal returns require monopolistic access. Any such test is a joint test: efficiency is examined together with a model of equilibrium expected returns, so a rejection indicts either the market or the model. [Joint hypothesis — Fama (1970, 1991).]
