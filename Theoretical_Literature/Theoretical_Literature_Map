@@ -7,12 +7,36 @@ Efficient Market Hypothesis Literature |
 - Trading Costs 
 - Joint-Hypothesis Problem
 ***
-[Literature] 
-- Samuelson (1965), “Proof That Properly Anticipated Prices Fluctuate Randomly”
-Formal foundation of the proposition that anticipated information is incorporated into prices, telling apart unpredictable price changes from constant expected returns 
+[EMH_Literature]
 
-- Mandelbrot (1966), “Forecasts of Future Prices, Unbiased Markets, and ‘Martingale’ Models”
-Creates the Martingale and fair-game concepts used by Fama (1970), helps to explain why market efficiency does not require normally distributed returns, or a literal random walk. 
+[NOT READ]
+Samuelson (1965), “Proof That Properly Anticipated Prices Fluctuate Randomly”
+- Formal foundation of the proposition that anticipated information is incorporated into prices, telling apart unpredictable price changes from constant expected returns 
 
--Fama (1970), “Efficient Capital Markets: A Review of Theory and Empirical Work”
-Defines the Efficient Market Hypothesis as that markets can be termed efficient if the price accurately reflects all relevant private and public information regarding an assets stock. Fama (1970) breaks the idea into three forms and applies a relevant data set to see how an assets price behaves from the incorporation an information set created by either the assets historical prices, publicly avaliable announcments or privately held information that is not readily priced into the stock. 
+[NOT READ] 
+Mandelbrot (1966), “Forecasts of Future Prices, Unbiased Markets, and ‘Martingale’ Models”
+- Creates the Martingale and fair-game concepts used by Fama (1970), helps to explain why market efficiency does not require normally distributed returns, or a literal random walk. 
+
+[READ] 
+Fama (1970), “Efficient Capital Markets: A Review of Theory and Empirical Work”
+- Defines the Efficient Market Hypothesis as that markets can be termed efficient if the price accurately reflects all relevant private and public information regarding an assets stock. Fama (1970) breaks the idea into three forms and applies a relevant data set to see how an assets price behaves from the incorporation an information set created by either the assets historical prices, publicly avaliable announcments or privately held information that is not readily priced into the stock. Additionally, these tests use an assumed equilibrium expected-return model, that incorporates ideas of the dual-joint hypothesis. 
+
+[NOT READ] 
+Jensen (1978), “Some Anomalous Evidence Regarding Market Efficiency”
+- Adds economic meaning to 'efficiency', specifically, the oppurtunities that an investment set attains should be assessed after the costs of (1) obtaining information and (2) implementing trades. Relevant to VMP's are the once-a-month reweighting lowers a volatiltiy managed strategy. 
+
+[NOT READ]
+Grossman and Stiglitz (1980), “On the Impossibility of Informationally Efficient Markets”
+- Perfectly informative prices cannot coexist with costly information aquisiton, for instance, informed investors require compensation for gathering the informaiton. Providing a more realistic efficiency benchmark than frictionless strong-form efficiency. 
+
+[NOT READ] 
+Fama (1991), “Efficient Capital Markets: II”
+- Fama reframes efficiency research around return predictability, event studies and private information, as the joint-hypothesis problem becomes central. Analysing time-varying expected returns and their relation to business conditions 
+
+
+
+
+
+
+
+
