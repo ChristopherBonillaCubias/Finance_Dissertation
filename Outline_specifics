@@ -1,0 +1,80 @@
+Working_tILE = Multifactor Volatility Management: Risk-Return and the Business Cycle 
+
+Outline_Template (
+Chapter 1 | Introduction 
+##1.1 | Introduction 
+>Introduces volatility-managed portfolios, the multifactor setting, and the dissertation’s central research problem.
+##1.2 | Research Background 
+>Develops the theoretical and empirical background from market efficiency, the risk–return trade-off, volatility predictability, and volatility-managed portfolio research.
+##1.3 | Research Gaps 
+>Identifies the gaps left by DeMiguel et al. (2024), particularly around business-cycle conditioning, longer holding periods, and factor heterogeneity.
+##1.4 | Objectives of the Dissertation 
+>States the replication and extension objectives.
+##1.5 | Significance and Contributions 
+>Explains the dissertation’s contribution to volatility timing, multifactor asset pricing, and portfolio management.
+##1.6 | Overview of the Major Findings 
+>Discloses the main results early, following the Cochrane triangular structure.
+##1.7 | Structure of the Dissertation 
+>Summarises the remaining chapters.
+**
+Chapter 2 | Review of Literature 
+##2.1 | Theoretical Literature 
+>Covers the foundations of expected returns, market efficiency, portfolio theory, CAPM, ICAPM, and conditional risk prices.
+##2.2 | Empirical Literature 
+>Reviews the empirical evolution of volatility timing and volatility-managed portfolios.
+##2.3 | Mulitfactor Extensions 
+>Examines how volatility management operates across systematic equity factors rather than the market factor alone
+##2.4 | Synthesis of Literature 
+>Integrates the theoretical and empirical evidence into a unified argument.
+##2.5 | Research Gaps
+>States the unresolved questions that motivate the dissertation.
+##2.6 | Research Questions and Hypothesis
+>Formalises the replication, business-cycle, multi-horizon, and factor-specific hypotheses.
+**
+#Chapter 3 | Research Methodology 
+##3.1 | Replication of DeMiguel et al. (2024) 
+>Explains the replication design, regression specification, factor risk-price estimation, and benchmark procedures.
+##3.2 | Experimental Model 
+>Introduces the dissertation’s extensions, including business-cycle interactions and multi-horizon RRTO analysis.
+##3.3 | Look-Ahead Bias Control 
+>Explains the rolling 60-month classification procedure and point-in-time construction used to prevent future information from entering the volatility regimes.
+**
+Chapter 4 | Data Sources and Sample Period 
+##4.1 | Primary Data Sources and Sample Period 
+>Covers the Kenneth French Data Library, global-q, AQR, the nine factors, and the January 1977–December 2020 sample.
+##4.2 | Dependent Variables 
+>Defines factor returns, volatility-managed returns, RRTO measures, and other outcome variables.
+##4.3 | Independent Variables 
+>Defines inverse market volatility, recession indicators, volatility regimes, interaction terms, and control variables.
+##4.4 | Summary Statistics 
+>Reports descriptive statistics, correlations, factor relationships, and sample characteristics.
+**
+Chapter 5 | Results 
+##5.1 | Replication of DeMiguel et al. (2024)
+>Presents the replication of Table V, factor risk-price coefficients, statistical significance, and comparison with the original study.
+>Presents the replication of DeMiguel et al. (2024) Figure 1 
+>Presents the replication of Moreira and Muir (2017) etc. 
+**
+Chapter 6 | Experimental Findings 
+##6.1 | Multifactor Conditional Covariance Model 
+>Examines factor-level differences in conditional covariance and volatility sensitivity.
+##6.2 | Business Cycle Conditioning of the RRTO 
+>Tests whether the risk–return trade-off changes during NBER recessions.
+##6.3 | Multi-Horizon RRTO Persistence Analysis
+>Examines whether the RRTO persists across holding periods from 2 to 24 months.
+##6.4 | Discussion of Experimental Findings 
+>Interprets the results against theory, prior evidence, factor construction, and possible mechanisms.
+###We find that the RRTO is not affected by increased time horizons. 
+**
+Chapter 7 | Conclusion 
+##7.1 | Concluding Remarks 
+>Summarises the research problem, methodology, and principal findings.
+##7.2 |Contributions of the Dissertation 
+>Separates replication, methodological, empirical, and theoretical contributions.
+##7.3 | Relevance and Implications 
+7.3.1 | Implications for Theory 
+7.3.2 | Implications for Practice 
+##7.4 | Limnitations 
+>Addresses data, model, sample, transaction-cost, and identification limitations.
+##7.5 | Directions for Future Research 
+>Identifies extensions involving international markets, alternative volatility forecasts, structural breaks, machine learning, and implementable portfolios 
