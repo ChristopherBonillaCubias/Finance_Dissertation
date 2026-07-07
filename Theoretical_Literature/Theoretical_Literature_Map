@@ -1,2 +1,18 @@
-Samuelson (1965), “Proof That Properly Anticipated Prices Fluctuate Randomly”
+Efficient Market Hypothesis Literature |
+
+[Concepts] 
+- Market Efficiency 
+- Conditional Expected Returns 
+- Return Predictability 
+- Trading Costs 
+- Joint-Hypothesis Problem
+***
+[Literature] 
+- Samuelson (1965), “Proof That Properly Anticipated Prices Fluctuate Randomly”
 Formal foundation of the proposition that anticipated information is incorporated into prices, telling apart unpredictable price changes from constant expected returns 
+
+- Mandelbrot (1966), “Forecasts of Future Prices, Unbiased Markets, and ‘Martingale’ Models”
+Creates the Martingale and fair-game concepts used by Fama (1970), helps to explain why market efficiency does not require normally distributed returns, or a literal random walk. 
+
+-Fama (1970), “Efficient Capital Markets: A Review of Theory and Empirical Work”
+Defines the Efficient Market Hypothesis as that markets can be termed efficient if the price accurately reflects all relevant private and public information regarding an assets stock. Fama (1970) breaks the idea into three forms and applies a relevant data set to see how an assets price behaves from the incorporation an information set created by either the assets historical prices, publicly avaliable announcments or privately held information that is not readily priced into the stock. 
